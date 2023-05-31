@@ -1,7 +1,7 @@
 # ProjetoAngular
 
 # Atividade Implementação da Tela Inicial do site da loja de Jogos Gem Estelar em  Angular
-![Logo do site ](./assets/img/logo.svg)
+![Logo do site ](./src/assets/img/logo.svg)
 
 
 Descrição:
